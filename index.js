@@ -1,4 +1,4 @@
-// Hauptdatei für die Anwendung
+// Main file for the application
 
 console.log('Willkommen zur Anwendung für nachhaltige Ressourcen!');
-// Weitere Code-Logik wird hier hinzugefügt.
+// Additional code logic will be added here.
