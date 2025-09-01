@@ -1,7 +1,7 @@
 {
   "name": "nachhaltige-resourcen",
   "version": "1.0.0",
-  "description": "Eine Open-Source-Plattform zur Unterstützung nachhaltiger Initiativen.",
+  "description": "Eine Open-Source-Plattform zur Unterstützung nachhaltiger und umweltfreundlicher Initiativen.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
