@@ -1,0 +1,18 @@
+{
+  "name": "nachhaltige-resourcen",
+  "version": "1.0.0",
+  "description": "Eine Open-Source-Plattform zur Unterstützung nachhaltiger Initiativen.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo 'No tests specified' && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deinbenutzername/nachhaltige-resourcen.git"
+  },
+  "keywords": ["nachhaltigkeit", "ressourcen", "Umweltschutz"],
+  "author": "Ihr Name",
+  "license": "MIT",
+  "dependencies": {}
+}
